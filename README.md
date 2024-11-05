@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Codwears badge](https://www.codewars.com/users/kudinovaRenataDev/badges/large)](https://www.codewars.com/users/kudinovaRenataDev)
 <!--
 **kdrenata/kdrenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
