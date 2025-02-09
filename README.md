@@ -2,7 +2,7 @@
 [![Codwears badge](https://www.codewars.com/users/kudinovaRenataDev/badges/large)](https://www.codewars.com/users/kudinovaRenataDev)
 
 ## Languages and Frameworks ⚡
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,git,github,vite,npm,nodejs,figma,ps,bootstrap,webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,git,github,vite,npm,nodejs,figma,ps,ai,bootstrap,webstorm,vscode)](https://skillicons.dev)
 
 
 <!--
