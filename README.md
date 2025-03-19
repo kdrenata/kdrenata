@@ -2,10 +2,8 @@
 [![Codwears badge](https://www.codewars.com/users/kudinovaRenataDev/badges/large)](https://www.codewars.com/users/kudinovaRenataDev)
 
 ## Languages and Frameworks ⚡
-[![My Skills](https://skillicons.dev/icons?
-<p align="center">
-i=html,css,sass,js,ts,react,redux,git,github,vite,vue,vitest,materialui,npm,pnpm,yarn,nodejs,figma,ps,ai,bootstrap,webstorm,vscode)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,git,github,vite,vitest,materialui,npm,pnpm,yarn,nodejs,figma,ps,ai,bootstrap,webstorm,vscode)](https://skillicons.dev)
+
 
 <!--
 **kdrenata/kdrenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
