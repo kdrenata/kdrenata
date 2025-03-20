@@ -5,10 +5,10 @@
 
 <div align='center'>
     <a href='http://skillicons.dev'>
-        <img src='http://skillicons.dev/icons?i=html,css,sass,styledcomponents' alt='icons'/>
-        <img src='http://skillicons.dev/icons?i=js,ts,react,redux,angular,vite,vitest,nodejs' alt='icons'/>
-       <img src='http://skillicons.dev/icons?i=materialui,npm,pnpm,yarn,figma,ps,ai' alt='icons'/>
-       <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github' alt='icons'/>
+        <img src='http://skillicons.dev/icons?i=html,css,sass,styledcomponents' alt='icons'/> <br>
+        <img src='http://skillicons.dev/icons?i=js,ts,react,redux,angular,vite,vitest,nodejs' alt='icons'/> <br>
+        <img src='http://skillicons.dev/icons?i=materialui,npm,pnpm,yarn,figma,ps,ai' alt='icons'/> <br>
+       <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github' alt='icons'/> <br>
     </a>
 </div>
 
