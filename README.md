@@ -6,8 +6,8 @@
 <div align='center'>
     <a href='http://skillicons.dev'>
         <img src='http://skillicons.dev/icons?i=html,css,sass,styledcomponents' alt='icons'/> <br>
-        <img src='http://skillicons.dev/icons?i=js,ts,react,redux,angular,nodejs,vite,vitest,babel' alt='icons'/> <br>
-        <img src='http://skillicons.dev/icons?i=materialui,npm,pnpm,yarn,figma,ps,ai,bootstrap' alt='icons'/> <br>
+        <img src='http://skillicons.dev/icons?i=js,ts,react,redux,angular,nodejs,vite,vitest' alt='icons'/> <br>
+        <img src='http://skillicons.dev/icons?i=materialui,npm,pnpm,yarn,figma,ps,ai' alt='icons'/> <br>
        <img src='http://skillicons.dev/icons?i=vscode,webstorm,git,github' alt='icons'/> <br>
     </a>
 </div>
